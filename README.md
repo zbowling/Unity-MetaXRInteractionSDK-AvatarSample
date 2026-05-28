@@ -30,3 +30,9 @@ The project contains two sample scenes that showcase different interactions impl
 * AvatarPokeExamples - Demonstrates "Poke" interactions with Avatars.
 
 For information about the individual SDKs, see the [Interaction SDK documentation](https://developer.oculus.com/documentation/unity/unity-isdk-interaction-sdk-overview/) and the [Avatars SDK documentation](https://developer.oculus.com/documentation/unity/meta-avatars-overview/).
+
+## AI coding agents
+
+This repo is wired up for AI coding agents — `AGENTS.md`, `.vscode/extensions.json`, `.mcp.json`, `.cursor/rules/`, and a few client-specific dotfiles surface the **Meta Horizon** VS Code/Cursor extension, the `hzdb` MCP server, and the Meta Quest skill set automatically.
+
+Full toolchain, including Unity skills and per-client install instructions: [github.com/meta-quest/agentic-tools](https://github.com/meta-quest/agentic-tools).
